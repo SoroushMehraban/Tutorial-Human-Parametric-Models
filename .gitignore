@@ -2,3 +2,4 @@ SMPL_python_v.1.1.0
 parametric_models
 flame/model
 venv
+__pycache__
