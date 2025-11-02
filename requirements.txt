@@ -1,0 +1,7 @@
+smplx   # It installs torch and numpy as dependencies
+scipy
+chumpy @ git+https://github.com/mattloper/chumpy
+matplotlib
+tqdm
+easydict
+imageio[ffmpeg]
